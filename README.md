@@ -12,9 +12,13 @@ it is so much more convenient to just run `gcloud auth application-default login
 
 run the code with 
 
-> `npm install`
+```
+> gcloud auth application-default login
 
-> `npm run dev`
+> npm install
+
+> npm run dev
+```
 
 will get an error 
 
